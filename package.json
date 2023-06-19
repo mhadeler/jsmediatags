@@ -16,10 +16,13 @@
     {
       "name": "Jesse Ditson",
       "email": "jesse.ditson@gmail.com"
+    },
+    {
+      "name": "Mason Hadeler",
+      "email": "mhadeler@gmail.com"
     }
   ],
   "main": "build2/jsmediatags.js",
-  "browser": "dist/jsmediatags.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aadsm/jsmediatags.git"
